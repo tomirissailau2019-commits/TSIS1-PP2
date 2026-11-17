@@ -1,0 +1,11 @@
+INSERT INTO phonebook
+(first_name, second_name, phone, email, birthday)
+VALUES
+('Tomiris', 'Sailau', '+77001234567',
+ 'tomiris@gmail.com', '2006-07-15'),
+
+('Amina', 'Aliyeva', '+77005556677',
+ 'amina@gmail.com', '2005-04-20'),
+
+('Dana', 'Smirnova', '+77009998877',
+ 'dana@gmail.com', '2006-09-10');
